@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
+    BOT_TOKEN = "5242313455:AAHZPEm-7DqKCTVPJdcG0mKfMZehWWN66Yw"
+    APP_ID = "18852595"
+    API_HASH = "d971dda06d6bef8b1304ce216fb97ddb"
+    DATABASE_URL = "postgres://pszqudfwcjzten:38804855a5f91d27f3c96e381bf3b75ad7e7234242c9357f1ab3a81354ce3eb6@ec2-52-4-104-184.compute-1.amazonaws.com:5432/dakp1fb2fmiva4""
     SUDO_USERS = "" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
-    SUPPORT_CHAT_LINK = ""
+    G_DRIVE_CLIENT_ID = "640730737830-u3dqn3ggfg1t8t79nl5ug01t93t1affg.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
+    SUPPORT_CHAT_LINK = "https://t.me/Anime_Tamizh"
 
 
 class BotCommands:
